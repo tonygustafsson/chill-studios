@@ -1,0 +1,21 @@
+15:11:56	log_module	info	Removing old log file C:/xampp/htdocs/opusframe/logs//20140921.log, created at 20140921 11:26:44
+15:11:56	log_module	info	Removing old log file C:/xampp/htdocs/opusframe/logs//20140922.log, created at 20140922 09:37:19
+15:11:56	log_module	info	Removing old log file C:/xampp/htdocs/opusframe/logs//20140923.log, created at 20140923 14:32:56
+15:11:56	log_module	info	Removing old log file C:/xampp/htdocs/opusframe/logs//20140924.log, created at 20140924 15:32:50
+15:11:56	log_module	info	Removing old log file C:/xampp/htdocs/opusframe/logs//20140926.log, created at 20140926 13:06:49
+15:11:56	session_module	info	l8nb2u1rfb6mo11qpgmbo0gpi3 logged out due to session timeout (93276/1800 seconds)
+15:11:56	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+15:11:58	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+15:12:06	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:12:06	auth_module	info	mail@tonyg.se logged in from ::1
+15:12:06	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:12:09	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:12:28	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:15:36	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:15:56	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:16:13	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:17:13	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:19:23	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:19:45	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:20:49	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:21:27	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1

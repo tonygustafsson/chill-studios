@@ -1,0 +1,3 @@
+15:22:20	log_module	info	Removing old log files, if any...
+15:22:20	session_module	info	l8nb2u1rfb6mo11qpgmbo0gpi3 logged out due to session timeout (21695/1800 seconds)
+15:22:20	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5

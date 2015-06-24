@@ -1,0 +1,299 @@
+09:25:53	log_module	info	Removing old log files, if any...
+09:25:53	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:26:26	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:26:37	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:26:43	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:26:45	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:27:42	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:27:42	session_module	info	a51rv0tbi7d3nr6544dqtcf6a3 logged out due to session timeout (55767/1800 seconds)
+09:30:16	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:30:26	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:31:42	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:31:46	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+09:31:46	auth_module	info	mail@tonyg.se logged in from ::1
+09:31:46	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+09:31:46	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies WHERE id = 98 LIMIT 1
+09:31:47	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+09:31:47	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:31:52	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+09:31:52	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:32:20	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+09:32:20	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:33:01	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+09:33:01	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:33:22	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+09:33:22	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:35:42	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+09:35:42	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:35:43	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+09:35:43	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:36:13	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+09:36:13	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:36:30	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+09:36:30	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:36:56	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+09:36:56	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:37:04	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+09:37:04	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:37:42	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+09:37:53	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+09:37:53	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:37:58	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+09:37:58	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:38:08	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+09:38:08	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:38:28	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+09:38:28	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:38:35	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+09:38:35	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:38:47	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+09:38:47	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:38:54	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+09:38:54	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:39:10	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+09:39:10	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:39:31	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+09:39:31	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:39:55	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+09:39:55	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:40:31	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+09:40:31	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:41:13	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+09:41:13	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:41:43	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+09:41:43	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:42:00	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+09:42:00	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:46:24	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+09:46:24	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:46:28	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+09:46:28	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:46:42	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+09:46:42	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:48:31	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+09:48:31	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:48:35	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+09:48:35	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 5, 5
+09:48:36	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+09:48:36	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:48:39	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+09:48:39	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:50:39	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+09:50:39	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:50:46	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+09:50:46	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:50:50	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+09:50:50	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies WHERE id = 98 LIMIT 1
+09:50:51	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+09:50:51	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:50:53	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:51:10	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:51:24	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:51:34	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:51:50	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:52:24	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:52:39	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+09:53:44	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+13:09:51	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+13:09:51	session_module	info	a51rv0tbi7d3nr6544dqtcf6a3 logged out due to session timeout (11767/1800 seconds)
+13:10:06	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+13:10:14	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+13:12:51	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+13:13:00	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+13:13:54	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+13:27:49	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+13:28:00	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+13:29:26	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+13:29:32	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 5, 5
+13:29:36	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+13:29:37	auth_module	info	mail@tonyg.se logged in from ::1
+13:29:37	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+13:29:37	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies WHERE id = 101 LIMIT 1
+13:29:38	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+13:29:38	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+13:29:41	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+13:29:41	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+13:41:54	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+13:41:54	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+13:42:12	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+13:42:12	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+13:51:29	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+13:51:29	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+13:51:32	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+13:51:32	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 5, 5
+13:51:34	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+13:51:34	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+13:51:37	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+13:51:37	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+13:52:10	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+13:52:10	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+13:52:12	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+13:55:01	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+13:55:27	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+13:56:01	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+13:56:04	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY genre ASC LIMIT 0, 5
+13:56:05	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY genre DESC LIMIT 0, 5
+13:56:06	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+14:09:51	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+14:09:54	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+14:10:55	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+14:11:02	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+14:11:02	auth_module	info	mail@tonyg.se logged in from ::1
+14:11:02	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+14:11:32	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+14:11:44	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+14:12:11	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+14:12:13	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+14:12:13	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+14:12:15	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+14:12:18	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+14:12:18	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+14:12:20	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+14:12:22	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+14:12:22	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+14:12:27	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+14:12:29	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+14:12:29	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+14:13:18	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+14:13:18	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+14:13:19	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+14:13:19	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies WHERE id = 98 LIMIT 1
+14:13:36	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+14:13:36	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies WHERE id = 98 LIMIT 1
+14:13:37	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+14:13:37	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+14:15:21	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+14:15:21	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+14:15:23	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+14:15:44	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+14:15:48	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+14:15:48	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+14:15:58	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+14:16:00	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+14:16:07	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+14:16:07	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+14:22:56	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+14:22:56	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+14:22:58	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+14:22:58	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+14:23:20	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+14:23:23	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+14:23:23	auth_module	info	mail@tonyg.se logged in from ::1
+14:23:23	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+14:23:23	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies WHERE id = 94 LIMIT 1
+14:23:24	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+14:23:24	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+14:23:25	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+14:23:25	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+14:28:50	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+14:32:15	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+14:32:19	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+14:32:24	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+14:32:24	auth_module	info	mail@tonyg.se logged in from ::1
+14:32:24	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+14:32:24	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies WHERE id = 98 LIMIT 1
+14:32:25	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+14:32:25	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+14:32:26	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+14:32:26	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+14:32:29	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies WHERE name LIKE "%the%" ORDER BY name ASC LIMIT 0, 5
+14:32:31	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies WHERE name LIKE "%the%" ORDER BY name ASC LIMIT 0, 5
+14:33:36	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies WHERE name LIKE "%the%" ORDER BY name ASC LIMIT 0, 5
+14:34:59	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies WHERE name LIKE "%the%" ORDER BY name ASC LIMIT 0, 5
+14:36:13	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies WHERE name LIKE "%the%" ORDER BY name ASC LIMIT 0, 5
+14:40:54	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies WHERE name LIKE "%the%" ORDER BY name ASC LIMIT 0, 5
+14:41:25	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies WHERE name LIKE "%the%" ORDER BY name ASC LIMIT 0, 5
+14:41:27	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+14:41:37	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+14:41:37	auth_module	info	mail@tonyg.se logged in from ::1
+14:41:37	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+14:41:37	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+14:41:40	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+14:41:40	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+14:41:44	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+14:42:26	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+14:42:46	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+14:42:46	auth_module	info	mail@tonyg.se logged in from ::1
+14:42:46	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+14:42:46	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+14:42:48	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+14:42:48	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+14:42:51	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY seen ASC LIMIT 0, 5
+14:42:54	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY seen ASC LIMIT 5, 5
+14:42:58	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+14:43:54	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+15:28:25	session_module	info	a51rv0tbi7d3nr6544dqtcf6a3 logged out due to session timeout (2671/1800 seconds)
+15:28:26	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+15:28:31	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 5, 5
+15:28:37	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:28:37	auth_module	info	mail@tonyg.se logged in from ::1
+15:28:37	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:28:37	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+15:28:39	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:28:39	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+15:28:45	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:28:45	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+15:28:46	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:28:46	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+15:28:48	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:28:48	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+15:28:50	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:28:50	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+15:28:53	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:28:53	auth_module	info	mail@tonyg.se logged in from ::1
+15:28:53	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:28:53	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+15:29:13	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:29:13	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+15:29:16	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:29:18	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:29:18	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+15:29:19	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:29:19	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+15:29:22	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:29:22	auth_module	info	mail@tonyg.se logged in from ::1
+15:29:22	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:29:23	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:29:23	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+15:29:25	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:29:26	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:29:26	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+15:29:28	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:29:30	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:29:30	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+15:29:31	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:29:31	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies WHERE id = 98 LIMIT 1
+15:29:38	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:29:38	form_module	info	Uploaded C:/xampp/htdocs/opusframe/assets/images/uploads/movies/98/98_2.jpg
+15:29:39	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:29:39	database_module	debug	SQL Query: UPDATE movies SET name = ?, genre = ?, rating = ?, seen = ?, media_type = ?, recommended = ? WHERE id = ?
+15:29:39	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:29:39	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+15:29:40	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:29:40	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies WHERE id = 98 LIMIT 1
+15:29:42	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:29:44	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:29:44	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+15:29:45	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:29:45	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies WHERE id = 98 LIMIT 1
+15:29:46	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:29:46	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+15:47:03	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:48:32	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:48:51	instagram_module	info	Downloading images from instagram with IP: ::1
+15:48:56	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:48:56	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+15:49:53	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:49:53	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+15:55:33	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:55:33	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+15:56:24	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:56:24	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+15:56:38	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:56:38	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+16:02:27	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+16:02:27	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+16:02:44	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+16:02:44	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+16:03:55	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+16:03:55	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5

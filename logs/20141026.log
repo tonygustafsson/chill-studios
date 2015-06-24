@@ -1,0 +1,245 @@
+15:06:22	log_module	info	Removing old log files, if any...
+15:06:22	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:06:24	instagram_module	info	Downloading images from instagram with IP: ::1
+15:06:24	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:06:25	instagram_module	info	Downloading images from instagram with IP: ::1
+15:07:20	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:07:21	instagram_module	info	Downloading images from instagram with IP: ::1
+15:07:33	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:07:34	instagram_module	info	Downloading images from instagram with IP: ::1
+15:07:58	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:07:59	instagram_module	info	Downloading images from instagram with IP: ::1
+15:10:27	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:10:28	instagram_module	info	Downloading images from instagram with IP: ::1
+15:11:21	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:11:22	instagram_module	info	Downloading images from instagram with IP: ::1
+15:11:34	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:11:34	instagram_module	info	Downloading images from instagram with IP: ::1
+15:13:00	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:13:01	instagram_module	info	Downloading images from instagram with IP: ::1
+15:13:14	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:13:14	instagram_module	info	Downloading images from instagram with IP: ::1
+15:13:17	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:13:18	instagram_module	info	Downloading images from instagram with IP: ::1
+15:14:16	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:14:17	instagram_module	info	Downloading images from instagram with IP: ::1
+15:14:34	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:14:34	instagram_module	info	Downloading images from instagram with IP: ::1
+15:14:45	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:14:45	instagram_module	info	Downloading images from instagram with IP: ::1
+15:15:11	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:15:12	instagram_module	info	Downloading images from instagram with IP: ::1
+15:15:19	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:15:19	instagram_module	info	Downloading images from instagram with IP: ::1
+15:15:24	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:15:24	instagram_module	info	Downloading images from instagram with IP: ::1
+15:15:38	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:15:39	instagram_module	info	Downloading images from instagram with IP: ::1
+15:17:15	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:17:16	instagram_module	info	Downloading images from instagram with IP: ::1
+15:17:26	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:17:26	instagram_module	info	Downloading images from instagram with IP: ::1
+15:18:32	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:18:32	instagram_module	info	Downloading images from instagram with IP: ::1
+15:19:11	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:19:12	instagram_module	info	Downloading images from instagram with IP: ::1
+15:19:36	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:19:36	instagram_module	info	Downloading images from instagram with IP: ::1
+15:21:12	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:22:30	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:22:31	instagram_module	info	Downloading images from instagram with IP: ::1
+15:22:32	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:22:33	instagram_module	info	Downloading images from instagram with IP: ::1
+15:22:53	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:22:54	instagram_module	info	Downloading images from instagram with IP: ::1
+15:23:00	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:23:01	instagram_module	info	Downloading images from instagram with IP: ::1
+15:23:10	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:23:11	instagram_module	info	Downloading images from instagram with IP: ::1
+15:23:16	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:23:47	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:23:48	instagram_module	info	Downloading images from instagram with IP: ::1
+15:23:51	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:23:52	instagram_module	info	Downloading images from instagram with IP: ::1
+15:23:58	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:23:58	instagram_module	info	Downloading images from instagram with IP: ::1
+15:24:14	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:24:14	instagram_module	info	Downloading images from instagram with IP: ::1
+15:27:25	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:27:25	instagram_module	info	Downloading images from instagram with IP: ::1
+15:28:01	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:28:02	instagram_module	info	Downloading images from instagram with IP: ::1
+15:30:39	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:30:39	instagram_module	info	Downloading images from instagram with IP: ::1
+15:31:07	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:31:07	instagram_module	info	Downloading images from instagram with IP: ::1
+15:32:34	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:32:35	instagram_module	info	Downloading images from instagram with IP: ::1
+15:33:40	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:34:01	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:34:02	instagram_module	info	Downloading images from instagram with IP: ::1
+15:34:12	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:34:12	instagram_module	info	Downloading images from instagram with IP: ::1
+15:34:34	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:34:34	instagram_module	info	Downloading images from instagram with IP: ::1
+15:34:51	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:34:51	instagram_module	info	Downloading images from instagram with IP: ::1
+15:35:56	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:35:56	instagram_module	info	Downloading images from instagram with IP: ::1
+15:36:14	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:36:14	instagram_module	info	Downloading images from instagram with IP: ::1
+15:36:35	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:36:42	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:36:42	instagram_module	info	Downloading images from instagram with IP: ::1
+15:37:21	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:37:22	instagram_module	info	Downloading images from instagram with IP: ::1
+15:37:42	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:37:42	instagram_module	info	Downloading images from instagram with IP: ::1
+15:38:03	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:38:04	instagram_module	info	Downloading images from instagram with IP: ::1
+15:39:05	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:39:06	instagram_module	info	Downloading images from instagram with IP: ::1
+15:39:16	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:39:17	instagram_module	info	Downloading images from instagram with IP: ::1
+15:39:27	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:39:28	instagram_module	info	Downloading images from instagram with IP: ::1
+15:39:30	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:39:31	instagram_module	info	Downloading images from instagram with IP: ::1
+15:40:35	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:40:36	instagram_module	info	Downloading images from instagram with IP: ::1
+15:40:43	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:40:43	instagram_module	info	Downloading images from instagram with IP: ::1
+15:40:48	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:40:48	instagram_module	info	Downloading images from instagram with IP: ::1
+15:40:51	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:40:51	instagram_module	info	Downloading images from instagram with IP: ::1
+15:40:56	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:40:57	instagram_module	info	Downloading images from instagram with IP: ::1
+15:41:30	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:41:31	instagram_module	info	Downloading images from instagram with IP: ::1
+15:47:12	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:47:12	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+15:47:12	session_module	info	a51rv0tbi7d3nr6544dqtcf6a3 logged out due to session timeout (94711/1800 seconds)
+15:48:30	instagram_module	info	Downloading images from instagram with IP: ::1
+15:48:34	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:48:34	auth_module	info	mail@tonyg.se logged in from ::1
+15:48:34	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:48:35	instagram_module	info	Downloading images from instagram with IP: ::1
+15:48:37	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:48:37	instagram_module	info	Downloading images from instagram with IP: ::1
+15:48:41	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:48:42	instagram_module	info	Downloading images from instagram with IP: ::1
+15:48:42	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:48:43	instagram_module	info	Downloading images from instagram with IP: ::1
+15:48:44	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:48:44	instagram_module	info	Downloading images from instagram with IP: ::1
+15:48:45	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:48:46	instagram_module	info	Downloading images from instagram with IP: ::1
+15:48:47	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:48:47	instagram_module	info	Downloading images from instagram with IP: ::1
+15:48:48	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:48:49	instagram_module	info	Downloading images from instagram with IP: ::1
+15:48:49	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:48:50	instagram_module	info	Downloading images from instagram with IP: ::1
+15:48:51	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:48:51	instagram_module	info	Downloading images from instagram with IP: ::1
+15:48:52	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:48:52	instagram_module	info	Downloading images from instagram with IP: ::1
+15:48:53	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:48:54	instagram_module	info	Downloading images from instagram with IP: ::1
+15:48:54	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:48:55	instagram_module	info	Downloading images from instagram with IP: ::1
+15:48:55	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:48:56	instagram_module	info	Downloading images from instagram with IP: ::1
+15:48:57	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:48:57	instagram_module	info	Downloading images from instagram with IP: ::1
+15:50:07	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:50:07	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+15:52:59	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:52:59	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+15:53:30	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:53:30	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+15:54:33	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:54:33	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+15:57:23	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:57:24	instagram_module	info	Downloading images from instagram with IP: ::1
+15:57:44	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:57:45	instagram_module	info	Downloading images from instagram with IP: ::1
+15:57:49	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:57:49	instagram_module	info	Downloading images from instagram with IP: ::1
+15:57:50	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:57:50	instagram_module	info	Downloading images from instagram with IP: ::1
+15:57:56	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:57:56	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+15:58:27	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:58:27	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+15:59:44	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+15:59:44	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+18:09:58	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:09:58	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+18:09:58	session_module	info	a51rv0tbi7d3nr6544dqtcf6a3 logged out due to session timeout (7814/1800 seconds)
+18:10:07	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:10:07	auth_module	info	mail@tonyg.se logged in from ::1
+18:10:07	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:10:50	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:11:46	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:12:46	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:13:42	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:14:32	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:14:46	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:15:20	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:16:40	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:17:58	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:18:15	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:18:54	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:20:00	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:20:52	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:21:59	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:22:10	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:22:40	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:23:08	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:24:55	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:24:59	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:24:59	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+18:25:06	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:26:00	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:26:04	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:26:04	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+18:26:11	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:26:11	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+18:26:13	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:26:13	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY genre DESC LIMIT 0, 5
+18:26:14	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:26:14	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY genre ASC LIMIT 0, 5
+18:26:16	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:26:16	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY rating DESC LIMIT 0, 5
+18:26:16	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:26:16	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY rating ASC LIMIT 0, 5
+18:26:18	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:26:18	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY rating ASC LIMIT 5, 5
+18:26:28	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:26:28	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+18:26:31	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:33:49	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:34:04	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:34:51	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:35:27	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:37:10	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:37:18	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:38:25	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:38:27	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:38:28	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:38:29	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:38:31	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:41:22	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:41:41	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:41:47	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:42:17	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:42:24	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:43:01	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:43:40	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:43:54	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:44:40	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:46:32	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:47:04	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+18:47:10	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1

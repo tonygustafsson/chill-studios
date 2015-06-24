@@ -1,0 +1,16 @@
+08:12:07	log_module	info	Removing old log files, if any...
+08:12:07	database_module	debug	SQL Query: SELECT id, username, real_name, password, token_reset_password, token_activation, activated FROM users WHERE username = "mail@tonyg.se" LIMIT 1
+08:12:07	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+08:12:07	session_module	info	vjc4s7ho07s7q5h7kemdvhi8d4 logged out due to session timeout (56975/1800 seconds)
+08:12:26	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+13:58:39	session_module	info	vjc4s7ho07s7q5h7kemdvhi8d4 logged out due to session timeout (18236/1800 seconds)
+14:20:35	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+14:21:32	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+14:21:50	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+14:22:10	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+14:22:52	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+14:24:06	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+14:24:59	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+14:25:33	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+14:27:06	database_module	debug	SQL Query: SELECT id, name, genre, rating, seen, media_type, recommended FROM movies ORDER BY name ASC LIMIT 0, 5
+15:53:25	session_module	info	vjc4s7ho07s7q5h7kemdvhi8d4 logged out due to session timeout (3521/1800 seconds)
