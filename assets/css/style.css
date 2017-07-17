@@ -129,9 +129,20 @@ footer p {
 	content: "\e606";
 }
 
+.fork-me {
+	position: absolute;
+    top: 0;
+    right: 0;
+    border: 0;
+}
+
 @media (max-width: 1000px) {
 	fieldset {
 		width: 95%;
 		margin: 1.5em 2.5%;
+	}
+
+	.fork-me {
+		display: none;
 	}
 }
