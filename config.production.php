@@ -5,9 +5,9 @@
 		{
 			$this->opus =& opus::$instance;
 
-			$this->base_url = '/chill-studios/'; //Just '/' if root
-			$this->site_name = "Chill studios";
-			$this->site_email = 'test@test.com';
+			$this->base_url = '/projects/nature-sounds/'; //Just '/' if root
+			$this->site_name = "Chill Studios";
+			$this->site_email = 'movie.database@test.com';
 			$this->css_bundle_cache_timeout = (1 * 60 * 24 * 7); //Minutes before refreshing a CSS bundle
 			$this->js_bundle_cache_timeout = (1 * 60 * 24 * 7); //Minutes before refreshing a JS bundle
 			$this->css_bundle_prefix = 'bundle_';

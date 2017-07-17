@@ -33,9 +33,9 @@
 		<article id="main">
 
 
-<?php if (isset($partial)): ?>
-	<?=$partial?>
-<?php endif; ?>
+		<?php if (isset($partial)): ?>
+			<?=$partial?>
+		<?php endif; ?>
 
 		</article>
 
