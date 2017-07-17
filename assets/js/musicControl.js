@@ -1,5 +1,6 @@
 function changeSound(e, audio) {
 	"use strict";
+	
 	var thisSound = e.target.options[e.target.selectedIndex].value,
 		soundsForm = document.getElementById('sounds-form'),
 		soundPath = soundsForm.getAttribute('data-sounds-path') + thisSound,
@@ -63,9 +64,9 @@ function createNewSoundControl(id) {
 
 	var	soundsForm = document.getElementById('sounds-form'),
 		numberOfSounds = parseInt(soundsForm.getElementsByTagName('select').length, 10),
-		id = (id !== undefined) ? id : numberOfSounds + 1,
 		fieldset = document.createElement('fieldset'),
 		legend = document.createElement('legend'),
+		id = (id !== undefined) ? id : numberOfSounds + 1,
 		legendText = document.createTextNode(' Sound ' + id),
 		legendIcon = document.createElement('span'),
 		select = document.createElement('select'),
@@ -93,6 +94,8 @@ function createNewSoundControl(id) {
 	});
 
 	for (x in soundFiles) {
+    	if (!soundFiles.hasOwnProperty(x)) continue;
+
 		var option = document.createElement('option');
 		option.setAttribute('value', soundFiles[x]);
 		option.text = soundFiles[x];
@@ -141,7 +144,9 @@ function createNewSoundControl(id) {
 	queries = {};
 
 	for (i in queries) {
-		if (queries[i]['src'] !== undefined) {
+    	if (!queries.hasOwnProperty(i)) continue;
+
+		if (queries[i].src !== undefined) {
 			soundId = i.replace("sound", "");
 			fieldset = createNewSoundControl(soundId);
 			select = document.getElementById(i + '-sound');
@@ -149,7 +154,7 @@ function createNewSoundControl(id) {
 			for (j = 0, k = select.options.length; j < k; j = j + 1) {
 				option = select.options[j];
 
-				if (option.value === queries[i]['src']) {
+				if (option.value === queries[i].src) {
 					select.selectedIndex = j;
 				}
 			}
