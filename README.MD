@@ -1,9 +1,5 @@
 # Chill Studios
 
-## Demo
-
-http://www.tonyg.se/projects/chill-studios/
-
 ## What is this?
 
 Just an engine delivering relaxing tunes with HTML5 Audio API. You can change tracks and volume.
@@ -12,10 +8,14 @@ Just an engine delivering relaxing tunes with HTML5 Audio API. You can change tr
 
 Just add .ogg files to /assets/sounds/
 
-## It's not working on mobile devices _whine_
+## Is it working on mobile devices?
 
-Seems so.
+Doesn't seems so.
 
 ## Screenshot
 
 ![Chill Studios](chill-studios.png 'Chill Studios')
+
+## Demo
+
+http://www.tonyg.se/projects/chill-studios/
