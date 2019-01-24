@@ -1,3 +1,54 @@
+function getSoundFiles() {
+    var soundFiles = [
+        'No sound',
+        'birds1.ogg',
+        'birds2.ogg',
+        'birds3.ogg',
+        'birds4.ogg',
+        'birds5.ogg',
+        'birds6.ogg',
+        'birds7.ogg',
+        'children1.ogg',
+        'children2.ogg',
+        'city1.ogg',
+        'cows1.ogg',
+        'crickets1.ogg',
+        'drops1.ogg',
+        'fire1.ogg',
+        'hens1.ogg',
+        'horses1.ogg',
+        'horses2.ogg',
+        'ocean1.ogg',
+        'ocean2.ogg',
+        'ocean3.ogg',
+        'ocean4.ogg',
+        'owl1.ogg',
+        'railway1.ogg',
+        'rain1.ogg',
+        'rain2.ogg',
+        'rain3.ogg',
+        'rain4.ogg',
+        'river1.ogg',
+        'river2.ogg',
+        'river3.ogg',
+        'seagulls1.ogg',
+        'sheeps1.ogg',
+        'ship1.ogg',
+        'ship2.ogg',
+        'thunder1.ogg',
+        'thunder2.ogg',
+        'tropical1.ogg',
+        'tropical2.ogg',
+        'tropical3.ogg',
+        'wind1.ogg',
+        'woodland1.ogg',
+        'woodland2.ogg',
+        'woodland3.ogg'
+    ];
+
+    return soundFiles;
+}
+
 function changeSound(e, audio) {
     'use strict';
 
@@ -14,8 +65,6 @@ function changeSound(e, audio) {
     audio.type = 'audio/ogg';
     audio.src = soundPath;
     audio.load();
-
-    queryHelper.changeParameter(urlId, 'src', thisSound);
 }
 
 function changeVolume(e, audio, volumeIcon) {
@@ -35,27 +84,18 @@ function changeVolume(e, audio, volumeIcon) {
         default:
             volumeIcon.className = 'icon-volume-mute';
     }
-
-    var urlId = 'sound' + audio.id;
-    queryHelper.changeParameter(urlId, 'vol', e.target.value);
 }
 
 function changeState(e, audio, stateIcon) {
     'use strict';
-    var newState;
 
     if (!audio.paused) {
         audio.pause();
         stateIcon.className = 'icon-play';
-        newState = 'off';
     } else {
         audio.play();
         stateIcon.className = 'icon-pause';
-        newState = 'on';
     }
-
-    var urlId = 'sound' + audio.id;
-    queryHelper.changeParameter(urlId, 'state', newState);
 }
 
 function createNewSoundControl(id) {
@@ -91,6 +131,8 @@ function createNewSoundControl(id) {
             createNewSoundControl();
         }
     });
+
+    var soundFiles = getSoundFiles();
 
     for (x in soundFiles) {
         if (!soundFiles.hasOwnProperty(x)) continue;
@@ -140,34 +182,5 @@ function createNewSoundControl(id) {
 }
 
 (function start() {
-    var queries = queryHelper.getQueries(),
-        select,
-        option,
-        soundId,
-        fieldset,
-        i,
-        j,
-        k;
-
-    queries = {};
-
-    for (i in queries) {
-        if (!queries.hasOwnProperty(i)) continue;
-
-        if (queries[i].src !== undefined) {
-            soundId = i.replace('sound', '');
-            fieldset = createNewSoundControl(soundId);
-            select = document.getElementById(i + '-sound');
-
-            for (j = 0, k = select.options.length; j < k; j = j + 1) {
-                option = select.options[j];
-
-                if (option.value === queries[i].src) {
-                    select.selectedIndex = j;
-                }
-            }
-        }
-    }
-
     createNewSoundControl();
 })();
