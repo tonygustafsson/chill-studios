@@ -54,8 +54,7 @@ function changeSound(e, audio) {
 
     var thisSound = e.target.options[e.target.selectedIndex].value,
         soundsForm = document.getElementById('sounds-form'),
-        soundPath = soundsForm.getAttribute('data-sounds-path') + thisSound,
-        urlId = 'sound' + audio.id;
+        soundPath = soundsForm.getAttribute('data-sounds-path') + thisSound;
 
     if (thisSound === '0') {
         audio.src = '';

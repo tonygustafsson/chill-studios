@@ -1,6 +1,6 @@
 <IfModule mod_rewrite.c>
 	RewriteEngine On
-	RewriteBase /projects/nature-sounds
+	RewriteBase /projects/chill-studios
 
 	#Redirect non www request to www for SEO
 	#RewriteCond %{REMOTE_ADDR} !=127.0.0.1
