@@ -18,4 +18,4 @@ Doesn't seems so.
 
 ## Demo
 
-http://www.tonyg.se/projects/chill-studios/
+[Demo](https://chill-studios.vercel.app/)
