@@ -1,0 +1,22 @@
+{
+  "name": "chill-studios",
+  "version": "1.0.0",
+  "description": "Add relaxing sounds to improve your work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonygustafsson/chill-studios.git"
+  },
+  "author": "Tony Gustafsson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonygustafsson/chill-studios/issues"
+  },
+  "homepage": "https://github.com/tonygustafsson/chill-studios#readme",
+  "devDependencies": {
+    "eslint": "^8.2.0"
+  }
+}

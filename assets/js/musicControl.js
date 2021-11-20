@@ -116,8 +116,8 @@ const createNewSoundControl = () => {
         }
     });
 
-    for (x in soundFiles) {
-        if (!soundFiles.hasOwnProperty(x)) continue;
+    for (const x in soundFiles) {
+        if (!Object.hasOwnProperty.call(soundFiles, x)) continue;
 
         var option = document.createElement('option');
         option.setAttribute('value', soundFiles[x]);
