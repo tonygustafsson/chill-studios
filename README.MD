@@ -10,7 +10,7 @@ Just add .ogg files to /assets/sounds/
 
 ## Is it working on mobile devices?
 
-Doesn't seems so.
+At least on Android. Try it.
 
 ## Screenshot
 
