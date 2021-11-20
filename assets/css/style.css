@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&display=swap');
 
 body {
     background: url('../images/background-nature.jpg');
     background-size: cover;
     background-attachment: fixed;
     font-size: 16px;
-    font-family: 'Permanent Marker', sans-serif;
+    font-family: 'Croissant One', cursive;
     padding: 1em;
 }
 
@@ -28,20 +28,15 @@ fieldset {
 
 h1 {
     text-align: center;
-    text-transform: uppercase;
     font-size: 400%;
-}
-
-h1 a {
     color: #fff;
     text-decoration: none;
-    text-shadow: 4px 4px 2px rgba(0, 0, 0, 0.2), -4px -4px 2px rgba(255, 255, 255, 0.2);
+    text-shadow: 0 0 20px #000;
 }
 
 legend {
     background: #fff;
     font-size: 130%;
-    background: rgba(255, 255, 255, 0.9);
     border: 1px white solid;
     border-bottom: 0;
     padding: 0.1em 0.5em;
@@ -49,11 +44,18 @@ legend {
 }
 
 select {
-    min-width: 15em;
+    width: 100%;
     min-height: 2em;
     display: block;
     margin: 0.5em 0;
     font-size: 120%;
+    font-family: system-ui;
+}
+
+@-moz-document url-prefix() {
+    select {
+        padding-top: 6px;
+    }
 }
 
 [class^='icon-volume-'] {
@@ -61,10 +63,17 @@ select {
     margin: 0 0.5em;
 }
 
+.icon-music {
+    font-size: 80%;
+    margin-right: 4px;
+}
+
 button {
-    display: inline-block;
-    margin: 0 1em;
-    vertical-align: bottom;
+    border: 0;
+    margin: 0;
+    padding: 0;
+    vertical-align: middle;
+    margin-top: -4px;
 }
 
 a {
@@ -72,8 +81,9 @@ a {
 }
 
 footer {
-    height: 2.5em;
-    margin-top: 2em;
+    position: absolute;
+    right: 10px;
+    bottom: 0;
 }
 
 footer p {
@@ -89,6 +99,53 @@ footer p {
     right: 0;
     border: 0;
 }
+
+/* RANGE SLIDER */
+
+input[type='range'] {
+    width: 80%;
+    margin: 5px 0;
+    background-color: transparent;
+    -webkit-appearance: none;
+    vertical-align: bottom;
+}
+
+input[type='range']:focus {
+    outline: none;
+}
+
+input[type='range']::-webkit-slider-runnable-track {
+    background: #9f7871;
+    width: 100%;
+    height: 7px;
+    margin-top: -14px;
+}
+
+input[type='range']::-webkit-slider-thumb {
+    margin-top: -5px;
+    width: 16px;
+    height: 16px;
+    background: #000000;
+    border: 1px solid #000000;
+    border-radius: 50px;
+    -webkit-appearance: none;
+}
+
+input[type='range']::-moz-range-track {
+    background: #9f7871;
+    width: 100%;
+    height: 7px;
+}
+
+input[type='range']::-moz-range-thumb {
+    width: 16px;
+    height: 16px;
+    background: #000000;
+    border: 1px solid #000000;
+    border-radius: 50px;
+}
+
+/* BREAKPOINT */
 
 @media (max-width: 1200px) {
     body {
