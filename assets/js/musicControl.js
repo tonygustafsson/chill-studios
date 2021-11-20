@@ -122,7 +122,7 @@ function createNewSoundControl(id) {
 
     select.id = 'sound' + id + '-sound';
 
-    select.addEventListener('change', function(e) {
+    select.addEventListener('change', function (e) {
         changeSound(e, audio);
 
         if (soundsForm.lastChild.getElementsByTagName('select')[0] === this) {
@@ -147,24 +147,24 @@ function createNewSoundControl(id) {
     volumeControl.setAttribute('min', 0);
     volumeControl.setAttribute('max', 100);
     volumeControl.setAttribute('value', 80);
-    volumeControl.addEventListener('change', function(e) {
+    volumeControl.addEventListener('change', function (e) {
         changeVolume(e, audio, volumeIcon);
     });
 
     stateIcon.className = 'icon-pause';
     stateControl.setAttribute('type', 'button');
     stateControl.appendChild(stateIcon);
-    stateControl.addEventListener('click', function(e) {
+    stateControl.addEventListener('click', function (e) {
         changeState(e, audio, stateIcon);
     });
 
     audio.id = id;
 
-    audio.addEventListener('canplay', function() {
+    audio.addEventListener('canplay', function () {
         audio.play();
     });
 
-    audio.addEventListener('ended', function() {
+    audio.addEventListener('ended', function () {
         audio.play();
     });
 
