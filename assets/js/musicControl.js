@@ -1,60 +1,54 @@
-function getSoundFiles() {
-    var soundFiles = [
-        'No sound',
-        'birds1.ogg',
-        'birds2.ogg',
-        'birds3.ogg',
-        'birds4.ogg',
-        'birds5.ogg',
-        'birds6.ogg',
-        'birds7.ogg',
-        'children1.ogg',
-        'children2.ogg',
-        'city1.ogg',
-        'cows1.ogg',
-        'crickets1.ogg',
-        'drops1.ogg',
-        'fire1.ogg',
-        'hens1.ogg',
-        'horses1.ogg',
-        'horses2.ogg',
-        'ocean1.ogg',
-        'ocean2.ogg',
-        'ocean3.ogg',
-        'ocean4.ogg',
-        'owl1.ogg',
-        'railway1.ogg',
-        'rain1.ogg',
-        'rain2.ogg',
-        'rain3.ogg',
-        'rain4.ogg',
-        'river1.ogg',
-        'river2.ogg',
-        'river3.ogg',
-        'seagulls1.ogg',
-        'sheeps1.ogg',
-        'ship1.ogg',
-        'ship2.ogg',
-        'thunder1.ogg',
-        'thunder2.ogg',
-        'tropical1.ogg',
-        'tropical2.ogg',
-        'tropical3.ogg',
-        'wind1.ogg',
-        'woodland1.ogg',
-        'woodland2.ogg',
-        'woodland3.ogg'
-    ];
+const soundFiles = [
+    'No sound',
+    'birds1.ogg',
+    'birds2.ogg',
+    'birds3.ogg',
+    'birds4.ogg',
+    'birds5.ogg',
+    'birds6.ogg',
+    'birds7.ogg',
+    'children1.ogg',
+    'children2.ogg',
+    'city1.ogg',
+    'cows1.ogg',
+    'crickets1.ogg',
+    'drops1.ogg',
+    'fire1.ogg',
+    'hens1.ogg',
+    'horses1.ogg',
+    'horses2.ogg',
+    'ocean1.ogg',
+    'ocean2.ogg',
+    'ocean3.ogg',
+    'ocean4.ogg',
+    'owl1.ogg',
+    'railway1.ogg',
+    'rain1.ogg',
+    'rain2.ogg',
+    'rain3.ogg',
+    'rain4.ogg',
+    'river1.ogg',
+    'river2.ogg',
+    'river3.ogg',
+    'seagulls1.ogg',
+    'sheeps1.ogg',
+    'ship1.ogg',
+    'ship2.ogg',
+    'thunder1.ogg',
+    'thunder2.ogg',
+    'tropical1.ogg',
+    'tropical2.ogg',
+    'tropical3.ogg',
+    'wind1.ogg',
+    'woodland1.ogg',
+    'woodland2.ogg',
+    'woodland3.ogg'
+];
 
-    return soundFiles;
-}
-
-function changeSound(e, audio) {
-    'use strict';
-
-    var thisSound = e.target.options[e.target.selectedIndex].value,
-        soundsForm = document.getElementById('sounds-form'),
-        soundPath = soundsForm.getAttribute('data-sounds-path') + thisSound;
+const changeSound = (e, audio) => {
+    const thisSound = e.target.options[e.target.selectedIndex].value;
+    const soundsForm = document.getElementById('sounds-form');
+    const soundPath = soundsForm.getAttribute('data-sounds-path') + thisSound;
 
     if (thisSound === '0') {
         audio.src = '';
@@ -64,30 +58,23 @@ function changeSound(e, audio) {
     audio.type = 'audio/ogg';
     audio.src = soundPath;
     audio.load();
-}
+};
 
-function changeVolume(e, audio, volumeIcon) {
-    'use strict';
+const changeVolume = (e, audio, volumeIcon) => {
     audio.volume = e.target.value / 100;
 
-    switch (true) {
-        case e.target.value > 80:
-            volumeIcon.className = 'icon-volume-high';
-            break;
-        case e.target.value > 40:
-            volumeIcon.className = 'icon-volume-medium';
-            break;
-        case e.target.value > 0:
-            volumeIcon.className = 'icon-volume-low';
-            break;
-        default:
-            volumeIcon.className = 'icon-volume-mute';
+    if (e.target.value >= 80) {
+        volumeIcon.className = 'icon-volume-high';
+    } else if (e.target.value >= 40) {
+        volumeIcon.className = 'icon-volume-medium';
+    } else if (e.target.value > 0) {
+        volumeIcon.className = 'icon-volume-low';
+    } else {
+        volumeIcon.className = 'icon-volume-mute';
     }
-}
+};
 
-function changeState(e, audio, stateIcon) {
-    'use strict';
-
+const changeState = (audio, stateIcon) => {
     if (!audio.paused) {
         audio.pause();
         stateIcon.className = 'icon-play';
@@ -95,25 +82,23 @@ function changeState(e, audio, stateIcon) {
         audio.play();
         stateIcon.className = 'icon-pause';
     }
-}
+};
 
-function createNewSoundControl(id) {
-    'use strict';
+const createNewSoundControl = () => {
+    const soundsForm = document.getElementById('sounds-form');
+    const numberOfSounds = parseInt(soundsForm.getElementsByTagName('select').length, 10);
+    const fieldset = document.createElement('fieldset');
+    const legend = document.createElement('legend');
+    const id = numberOfSounds + 1;
+    const legendText = document.createTextNode(' Sound ' + id);
+    const legendIcon = document.createElement('span');
+    const select = document.createElement('select');
+    const stateControl = document.createElement('button');
+    const stateIcon = document.createElement('span');
+    const volumeControl = document.createElement('input');
+    const volumeIcon = document.createElement('span');
 
-    var soundsForm = document.getElementById('sounds-form'),
-        numberOfSounds = parseInt(soundsForm.getElementsByTagName('select').length, 10),
-        fieldset = document.createElement('fieldset'),
-        legend = document.createElement('legend'),
-        id = id !== undefined ? id : numberOfSounds + 1,
-        legendText = document.createTextNode(' Sound ' + id),
-        legendIcon = document.createElement('span'),
-        select = document.createElement('select'),
-        stateControl = document.createElement('button'),
-        stateIcon = document.createElement('span'),
-        volumeControl = document.createElement('input'),
-        volumeIcon = document.createElement('span'),
-        audio = new Audio(),
-        x;
+    const audio = new Audio();
 
     fieldset.id = 'sound' + id + '-container';
     legendIcon.className = 'icon-music';
@@ -122,16 +107,14 @@ function createNewSoundControl(id) {
 
     select.id = 'sound' + id + '-sound';
 
-    select.addEventListener('change', function (e) {
+    select.addEventListener('change', (e) => {
         changeSound(e, audio);
 
-        if (soundsForm.lastChild.getElementsByTagName('select')[0] === this) {
-            //Create a new sound form if this is the last one
+        if (soundsForm.lastChild.getElementsByTagName('select')[0] === e.target) {
+            // Create a new sound form if this is the last one
             createNewSoundControl();
         }
     });
-
-    var soundFiles = getSoundFiles();
 
     for (x in soundFiles) {
         if (!soundFiles.hasOwnProperty(x)) continue;
@@ -147,24 +130,24 @@ function createNewSoundControl(id) {
     volumeControl.setAttribute('min', 0);
     volumeControl.setAttribute('max', 100);
     volumeControl.setAttribute('value', 80);
-    volumeControl.addEventListener('change', function (e) {
+    volumeControl.addEventListener('change', (e) => {
         changeVolume(e, audio, volumeIcon);
     });
 
     stateIcon.className = 'icon-pause';
     stateControl.setAttribute('type', 'button');
     stateControl.appendChild(stateIcon);
-    stateControl.addEventListener('click', function (e) {
-        changeState(e, audio, stateIcon);
+    stateControl.addEventListener('click', () => {
+        changeState(audio, stateIcon);
     });
 
     audio.id = id;
 
-    audio.addEventListener('canplay', function () {
+    audio.addEventListener('canplay', () => {
         audio.play();
     });
 
-    audio.addEventListener('ended', function () {
+    audio.addEventListener('ended', () => {
         audio.play();
     });
 
@@ -178,8 +161,6 @@ function createNewSoundControl(id) {
     soundsForm.appendChild(fieldset);
 
     return fieldset;
-}
+};
 
-(function start() {
-    createNewSoundControl();
-})();
+createNewSoundControl();
